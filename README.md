@@ -12,5 +12,9 @@ More examples to look at
 ## Deployment
 Deploy me to a web server
 
+## Copyright 
+
+copyright me
+
 ## How To Contribute
 looking for friends
