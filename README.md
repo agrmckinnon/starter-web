@@ -18,3 +18,4 @@ copyright me
 
 ## How To Contribute
 looking for friends
+Please fork this repository and then issue pull requests for review.
