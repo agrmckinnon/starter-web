@@ -8,6 +8,7 @@ Using this to showcase diff and merge
 ## Purpose
 
 Sample website with plenty of files for demos
+More examples to look at
 
 ## Deployment
 
